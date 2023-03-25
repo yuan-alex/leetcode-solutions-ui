@@ -1,1 +1,1 @@
-# leetcode-solutions-ui
+# leetcode solutions ui
